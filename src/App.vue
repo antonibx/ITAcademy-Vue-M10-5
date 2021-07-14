@@ -1,7 +1,7 @@
 <template>
   <div>
     <img alt="Vue logo" src="./assets/logo.png">
-    <LlistaPelis msg="Llista de Películes"/>
+    <LlistaPelis titol="Llista de Películes"/>
   </div>
 </template>
 
